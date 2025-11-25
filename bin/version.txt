@@ -1,0 +1,7 @@
+win-bash-> 0.6 {
+    shell.w32-ix86 -> 1.1
+}
+wget-> 1.21.4
+jq->jq-1.8.1
+
+busybox => https://frippery.org/files/busybox/busybox64u.exe
